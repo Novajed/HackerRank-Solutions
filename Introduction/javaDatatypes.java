@@ -1,3 +1,7 @@
+//github.com/Novajed
+
+//https://www.hackerrank.com/challenges/java-datatypes/problem
+
 import java.util.*;
 import java.io.*;
 
