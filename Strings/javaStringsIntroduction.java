@@ -19,7 +19,7 @@ public class Solution {
         //Print computed value 
         System.out.println(total_length);
         
-        //Print yes if Str A lexicographically greater than Str B, otherwise print 'No'
+        //Print yes if Str A is lexicographically greater than Str B, otherwise print 'No'
         if (A.compareTo(B) > 0 ) {
             System.out.println("Yes");
         } else {
