@@ -15,8 +15,10 @@ public class Solution {
         String S = in.next();
         int start = in.nextInt();
         int end = in.nextInt();
+        //Added close to reinforce habit of closing scanner :P
         in.close();
 
+         
         System.out.print(S.substring(start, end));
     }
 }
